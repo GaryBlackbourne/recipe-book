@@ -7,12 +7,12 @@ A tartalma:
 
 # Húsleves
 
-##hozzávalók
+## hozzávalók
 
  - itt egy lista
  - a hozzávalókról
 
-##elkészítés
+## elkészítés
 
  - itt pedig egy lista
- - az elkészítés menetéről, tippek miegyéb 
+ - az elkészítés menetéről, tippek miegyéb
