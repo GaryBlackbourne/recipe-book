@@ -1,7 +1,7 @@
 # Pestos halas tészta
 
 ## Hozzávalók
- - 1 üveg pesto szósz
+ - 1 üveg pesto szósz (2 dl)
  - 2dl főzőtejszín
  - 1 konzerv tonhal
  - oliva olajbogyó
